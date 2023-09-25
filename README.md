@@ -1,4 +1,6 @@
 <h1>Portifólio criado para projeto do Alura</h1>
+* Visite o portifólio no link -
+<https://leticiaslucena.github.io/HTML-Portifolio-challengeoneportifolio5/>
 
 * Nele temos o básico em HTML com suas tag's semântica. 
 
@@ -6,4 +8,4 @@
 
 * JS com interações básicas nos botões de contato. <br>
 
-<(https://angular-listagem-de-pokemon.vercel.app/)https://angular-listagem-de-pokemon.vercel.app//>
+
